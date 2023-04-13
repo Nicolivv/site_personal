@@ -1408,5 +1408,4 @@ hr {
 .row-vertical-align-middle div[class*=col-] {
     display: table-cell!important;
     vertical-align: middle;
-    float: none
-}
+    float: none}
